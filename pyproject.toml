@@ -8,6 +8,7 @@ dependencies = [
     "black>=26.10.1",
     "isort>=9.0.2",
     "langchain>=1.4.8",
+    "langchain-google-genai>=4.4.2",
     "langchain-ollama>=1.1.0",
     "langchain-openai>=1.7.3",
     "python-dotenv>=1.2.4",

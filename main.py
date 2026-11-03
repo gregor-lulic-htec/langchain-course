@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+from langchain_core.prompts import PromptTemplate
 import os
 
 load_dotenv()
